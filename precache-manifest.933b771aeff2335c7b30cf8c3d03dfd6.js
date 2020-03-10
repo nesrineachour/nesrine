@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "012caf38c89afc7ae12ecd826d094da6",
+    "revision": "631ac8555b9c2f875100b9eb7cb88164",
     "url": "/nesrine/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nesrine/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "65f2d72a9c5efeba18d3",
-    "url": "/nesrine/static/css/main.04150997.chunk.css"
+    "revision": "c70a59c2f1dbc7b479af",
+    "url": "/nesrine/static/css/main.cb8bbb11.chunk.css"
   },
   {
     "revision": "4bdf959950cadfca35e5",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nesrine/static/js/2.fce25732.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "65f2d72a9c5efeba18d3",
+    "revision": "c70a59c2f1dbc7b479af",
     "url": "/nesrine/static/js/main.3e06d8d3.chunk.js"
   },
   {
