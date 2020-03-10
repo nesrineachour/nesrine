@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nesrine/precache-manifest.0e39c28a9c6b9604bca921eeb3504efb.js"
+  "/nesrine/precache-manifest.9d59e9ddacb32f5125aabe66e86edeae.js"
 );
 
 self.addEventListener('message', (event) => {
