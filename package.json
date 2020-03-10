@@ -1,7 +1,7 @@
 {
-  "name": "cv",
+  "name": "nesrine",
   "version": "0.1.0",
-  "homepage": "https://sulaimanh.github.io/cv",
+  "homepage": "https://nesrineachour.github.io/nesrine",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
