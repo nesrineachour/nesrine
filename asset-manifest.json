@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/nesrine/static/css/main.c1283570.chunk.css",
+    "main.js": "/nesrine/static/js/main.b771f1bf.chunk.js",
+    "main.js.map": "/nesrine/static/js/main.b771f1bf.chunk.js.map",
+    "runtime-main.js": "/nesrine/static/js/runtime-main.9983e349.js",
+    "runtime-main.js.map": "/nesrine/static/js/runtime-main.9983e349.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/nesrine/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.4ace03e9.chunk.js": "/nesrine/static/js/2.4ace03e9.chunk.js",
+    "static/js/2.4ace03e9.chunk.js.map": "/nesrine/static/js/2.4ace03e9.chunk.js.map",
+    "index.html": "/nesrine/index.html",
+    "precache-manifest.c4e9e4156f37dfcc71a4b567f490e8dc.js": "/nesrine/precache-manifest.c4e9e4156f37dfcc71a4b567f490e8dc.js",
+    "service-worker.js": "/nesrine/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/nesrine/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.c1283570.chunk.css.map": "/nesrine/static/css/main.c1283570.chunk.css.map",
+    "static/js/2.4ace03e9.chunk.js.LICENSE.txt": "/nesrine/static/js/2.4ace03e9.chunk.js.LICENSE.txt",
+    "static/media/Me.jpeg": "/nesrine/static/media/Me.3d95a94d.jpeg",
+    "static/media/Sulaiman Hamouda Resume.pdf": "/nesrine/static/media/Sulaiman Hamouda Resume.fed0edf0.pdf",
+    "static/media/code.jpg": "/nesrine/static/media/code.53e7694b.jpg",
+    "static/media/contactMe.png": "/nesrine/static/media/contactMe.504b4f1c.png",
+    "static/media/Introduction.module.css": "/nesrine/static/media/flowers.fea8b7ed.jpg",
+    "static/media/MoreAboutMe.module.css": "/nesrine/static/media/profileBack.b5cc5cb9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9983e349.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.4ace03e9.chunk.js",
+    "static/css/main.c1283570.chunk.css",
+    "static/js/main.b771f1bf.chunk.js"
+  ]
+}
