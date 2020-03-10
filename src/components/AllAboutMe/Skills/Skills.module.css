@@ -1,0 +1,15 @@
+.Skills {
+  width: 100%;
+  clear: both;
+  /* display: block; */
+}
+
+.Image {
+  float: right;
+  width: 50%;
+}
+
+.Skill {
+  float: left;
+  width: 50%;
+}

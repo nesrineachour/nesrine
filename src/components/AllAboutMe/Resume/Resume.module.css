@@ -1,0 +1,13 @@
+.Resume {
+  border-radius: 5px;
+  background-color: #eab0d9;
+  border: none;
+  width: 200px;
+  height: 100%;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.Resume:hover {
+  background-color: #e6739f;
+}

@@ -1,0 +1,27 @@
+.NavigationItems {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+  list-style: none;
+}
+
+.NavigationItem {
+  text-decoration: none;
+  color: #f1c6de;
+}
+
+.NavigationItem a {
+  text-decoration: none;
+  width: 100%;
+  box-sizing: border-box;
+  display: block;
+}
+
+.NavigationItem a:hover,
+.NavigationItem a:active,
+.NavigationItem a.activeClassName {
+  color: purple;
+}

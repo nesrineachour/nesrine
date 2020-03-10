@@ -1,0 +1,95 @@
+.Email {
+  width: 100%;
+  overflow: hidden;
+  text-align: center;
+}
+
+.SendButton {
+  border-radius: 5px;
+  background-color: #f1c6de;
+  margin: 15px 15px 0px 15px;
+  border: none;
+  width: 150px;
+  height: 100%;
+  padding: 10px;
+  cursor: pointer;
+  margin-bottom: 50px;
+}
+
+.SendButton:hover {
+  background-color: #d45079;
+}
+
+.Form input {
+  background-color: #f1c6de;
+  margin: 10px;
+  border: none;
+  height: 30px;
+  padding: 10px;
+  width: 40%;
+  border-radius: 10px;
+}
+
+::placeholder {
+  /* color: #c02739; */
+  /* font-weight: bold; */
+}
+
+.Form textarea {
+  border-radius: 10px;
+  width: 93%;
+  height: 150px;
+  background-color: #f1c6de;
+  border: none;
+  padding: 10px;
+  margin: 10px;
+}
+
+.Form .Subject {
+  width: 93%;
+}
+
+/* .Form input:focus {
+  color: red;
+} */
+
+.dropbtn {
+  background-color: #ffc5e6;
+  color: black;
+  padding: 16px;
+  border: none;
+  height: auto;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdownContent {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdownContent a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdownContent a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdownContent {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}

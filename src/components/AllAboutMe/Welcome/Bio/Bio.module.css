@@ -1,0 +1,78 @@
+.Bio {
+  margin: 16px 20px 0px 20px;
+  float: left;
+}
+
+.Heading {
+  display: block;
+  padding: 20px 20px 0px 20px;
+}
+
+.Heading h4 {
+  /* font-weight: bold; */
+}
+
+.conf {
+  position: absolute;
+  z-index: 300;
+}
+
+.Desc {
+  padding: 20px 20px 20px 20px;
+}
+
+.Desc .Links {
+  color: #ba6b57;
+  font-weight: bolder;
+  margin: 0;
+}
+.Bio p {
+  display: inline;
+}
+
+.Word {
+  color: #ba6b57;
+  font-weight: bolder;
+  margin: 0;
+}
+
+.Desc button {
+  border-radius: 5px;
+  background-color: #f1c6de;
+  margin: 15px 15px 0px 15px;
+  border: none;
+  width: 150px;
+  height: 100%;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.Desc button:hover {
+  background-color: #d45079;
+}
+.tooltip {
+  position: relative;
+  display: inline-block;
+  /* border-bottom: 1px dotted black; */
+}
+
+.tooltiptext {
+  visibility: hidden;
+  width: 100px;
+  background-color: #fd7792;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}

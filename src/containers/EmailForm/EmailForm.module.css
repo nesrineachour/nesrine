@@ -1,0 +1,50 @@
+.EmailForm {
+  width: 100%;
+  clear: both;
+}
+
+.Form {
+  margin-bottom: 50px;
+  width: 100%;
+  clear: both;
+}
+
+.Heading {
+  width: 100%;
+  text-align: center;
+  padding-top: 60px;
+}
+
+.Image {
+  width: 50%;
+  float: left;
+  padding: 30px;
+}
+
+.Image img {
+  width: 100%;
+  text-align: center;
+}
+
+.Email {
+  width: 50%;
+  float: right;
+}
+
+@media (max-width: 1124px) {
+  .Image {
+    width: 100%;
+  }
+
+  .Email {
+    width: 100%;
+  }
+
+  .Image img {
+    height: 100%;
+  }
+
+  .About {
+    width: 100%;
+  }
+}

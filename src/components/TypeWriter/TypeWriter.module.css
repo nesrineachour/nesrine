@@ -1,0 +1,35 @@
+.TypeWriter {
+  display: inline;
+}
+
+.Cursor {
+  color: red;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-size: 8vw;
+  display: inline;
+}
+
+.First {
+  color: #ebe6e6;
+  font-weight: bolder;
+  display: inline;
+}
+
+.Rose {
+  height: 50px;
+  /* margin-bottom: 30px; */
+}
+
+.Last {
+  color: #e6739f;
+  display: inline;
+}
+
+@media (min-width: 700px) {
+  h1 {
+    font-size: 50px;
+  }
+}

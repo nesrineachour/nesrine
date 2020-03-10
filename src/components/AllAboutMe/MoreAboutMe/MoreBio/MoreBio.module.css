@@ -1,0 +1,59 @@
+.MoreBio {
+  display: block;
+  padding: 20px 20px 0px 20px;
+}
+
+.Heading {
+  display: block;
+}
+
+.Heading h4 {
+  /* font-weight: bold; */
+}
+
+.Desc {
+  padding-top: 20px;
+}
+
+.Desc .Links {
+  color: #ba6b57;
+  font-weight: bolder;
+  margin: 0;
+}
+
+.Bio p {
+  display: inline;
+}
+
+.Word {
+  color: #ba6b57;
+  font-weight: bolder;
+  margin: 0;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  /* border-bottom: 1px dotted black; */
+}
+
+.tooltiptext {
+  visibility: hidden;
+  width: 100px;
+  background-color: #65587f;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}

@@ -1,0 +1,52 @@
+.Whole {
+  width: 100%;
+  flex-flow: column;
+  align-content: center;
+  align-items: center;
+}
+
+.OneLiner {
+  width: 100%;
+  margin-top: 20px;
+  font-family: "Montserrat";
+  margin-bottom: 20px;
+}
+
+.first {
+  color: #9399ff;
+  display: inline;
+}
+
+.second {
+  display: inline;
+  color: #e6739f;
+}
+
+.Wife {
+  color: inherit;
+  margin: 0;
+  text-decoration: none;
+}
+
+.Wife:hover {
+  text-decoration: none;
+}
+
+.third {
+  display: inline;
+  color: #a7e9af;
+}
+
+.Arrow {
+  margin-top: 60px;
+}
+
+.Arrow:hover {
+  color: #e6739f;
+}
+
+@media (max-width: 499px) {
+  .third {
+    display: block;
+  }
+}

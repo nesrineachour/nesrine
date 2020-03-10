@@ -1,0 +1,30 @@
+.Logo {
+  padding: 5px;
+  margin-right: 10px;
+  margin-top: 10px;
+  height: 100%;
+  box-sizing: border-box;
+  border-radius: 5px;
+  display: inline-flex;
+}
+
+.Logo .Rose {
+  height: 80%;
+}
+
+.Logo img {
+  height: 100%;
+}
+
+.Logo h4 {
+  color: #f1f3f4;
+  font-family: "Montserrat";
+  padding-top: 5px;
+  margin-right: 20px;
+}
+
+@media (max-width: 639px) {
+  .DesktopOnly {
+    display: none;
+  }
+}
