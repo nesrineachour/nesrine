@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nesrine/static/css/main.a7ae3387.chunk.css",
-    "main.js": "/nesrine/static/js/main.75e1dcee.chunk.js",
-    "main.js.map": "/nesrine/static/js/main.75e1dcee.chunk.js.map",
+    "main.js": "/nesrine/static/js/main.72241f83.chunk.js",
+    "main.js.map": "/nesrine/static/js/main.72241f83.chunk.js.map",
     "runtime-main.js": "/nesrine/static/js/runtime-main.9983e349.js",
     "runtime-main.js.map": "/nesrine/static/js/runtime-main.9983e349.js.map",
     "static/css/2.47e06e2e.chunk.css": "/nesrine/static/css/2.47e06e2e.chunk.css",
     "static/js/2.bfb52fa2.chunk.js": "/nesrine/static/js/2.bfb52fa2.chunk.js",
     "static/js/2.bfb52fa2.chunk.js.map": "/nesrine/static/js/2.bfb52fa2.chunk.js.map",
     "index.html": "/nesrine/index.html",
-    "precache-manifest.d39859b732f0292a912ff984ddb02f8a.js": "/nesrine/precache-manifest.d39859b732f0292a912ff984ddb02f8a.js",
+    "precache-manifest.23bb1916db784775f30440cacd66b172.js": "/nesrine/precache-manifest.23bb1916db784775f30440cacd66b172.js",
     "service-worker.js": "/nesrine/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/nesrine/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.a7ae3387.chunk.css.map": "/nesrine/static/css/main.a7ae3387.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.bfb52fa2.chunk.js",
     "static/css/main.a7ae3387.chunk.css",
-    "static/js/main.75e1dcee.chunk.js"
+    "static/js/main.72241f83.chunk.js"
   ]
 }
