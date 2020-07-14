@@ -67,10 +67,27 @@ const moreBio = () => {
         </p> */}
 
         <p>
-          I have been working on my digital and UI/UX design skills for the past
-          year. My husband is a Software Engineer and we work together on
-          projects. I design his websites before he starts to develop them. This
-          helps him develop faster with better looking UI.
+          I have been working on my{" "}
+          <span className={styles.Word} style={{ color: "#4d089a" }}>
+            digital and UI/UX design
+          </span>{" "}
+          skills for the past year. My{" "}
+          <span
+            className={[styles.Word, styles.tooltip].join(" ")}
+            style={{ color: "red" }}
+          >
+            husband
+            <span className={styles.tooltiptext}>
+              <FontAwesomeIcon icon={faHeart} size="1x" color="red" />
+            </span>
+          </span>{" "}
+          is a developer and we work together on projects. I design his websites
+          before he starts to develop them. This helps him develop faster with
+          better looking UI. I love to use my artistic abilities and technology
+          to{" "}
+          <span className={styles.Word} style={{ color: "#f8615a" }}>
+            create amazing things.
+          </span>
           {/* <span
             className={[styles.Word, styles.tooltip].join(" ")}
             style={{ color: "#50bda1" }}

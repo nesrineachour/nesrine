@@ -18,7 +18,7 @@ const oneLiner = () => {
       </div>
       {/* <Resume /> */}
       <div className={styles.OneLiner}>{/* <SocialMedia /> */}</div>
-      <NavLink smooth to={{ pathname: "/cv/", hash: "#Welcome" }}>
+      <NavLink smooth to={{ pathname: "/nesrine/", hash: "#Welcome" }}>
         <FontAwesomeIcon
           className={styles.Arrow}
           icon={faArrowAltCircleDown}

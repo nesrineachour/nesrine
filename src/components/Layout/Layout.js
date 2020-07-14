@@ -34,7 +34,7 @@ class Layout extends Component {
 
   render() {
     let bottomTop = this.state.showBottomTop ? null : (
-      <NavLink smooth to={{ pathname: "/cv/", hash: "#Top" }}>
+      <NavLink smooth to={{ pathname: "/nesrine/", hash: "#Top" }}>
         <div className={styles.ToTop}>
           <FontAwesomeIcon icon={faAngleUp} size="2x" color="white" />
         </div>

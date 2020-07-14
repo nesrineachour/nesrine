@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import styles from "./Bio.module.css";
 import useWindowSize from "react-use/lib/useWindowSize";
 import { faChessQueen } from "@fortawesome/free-solid-svg-icons";
+import { faSurprise } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Confetti from "react-confetti";
 
@@ -17,7 +18,7 @@ const Bio = () => {
     }, 10000);
   };
 
-  const config = { x: 0, y: 1100, w: width / 2, h: 0 };
+  const config = { x: 0, y: 700, w: width, h: height };
   return (
     <div className={styles.Bio}>
       <div className={styles.Heading}>
@@ -55,7 +56,7 @@ const Bio = () => {
             English
           </span>
           . Hoping to learn Spanish next!
-        </p>
+        </p>{" "}
         <p>
           I graduated with a degree in Finance, however, my passion is Art.
           During my free time, I love to draw and learn new things, such as{" "}
@@ -73,14 +74,14 @@ const Bio = () => {
         </p>
         <br />
         <br />
-        <button onClick={surpriseButton}>Surprise!</button>
+        <button onClick={surpriseButton}>Surprise! </button>
         {conf === true ? (
           <Confetti
             className={styles.conf}
             confettiSource={config}
             numberOfPieces="500"
             width={width}
-            height={height + 1000}
+            height={height + 1500}
           />
         ) : null}
       </div>

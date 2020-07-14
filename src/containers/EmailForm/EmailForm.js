@@ -8,7 +8,7 @@ const emailForm = () => {
     <div id="Contact Me" className={styles.EmailForm}>
       <div className={styles.Heading}>
         <h2>Get In Touch</h2>
-        <p>You can email me by using the form below.</p>
+        <p>Need a designer? Contact me using the form below!</p>
       </div>
       <div className={styles.Form}>
         <div className={styles.Image}>

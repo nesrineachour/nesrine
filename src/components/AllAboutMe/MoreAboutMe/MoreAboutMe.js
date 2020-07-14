@@ -16,7 +16,7 @@ const moreAboutMe = props => {
 
           <FontAwesomeIcon icon={faArrowDown} size="1x" color="#fd7792" />
         </div>
-        <img className={styles.Img} src={ProfilePic} />
+        <img src={ProfilePic} />
       </div>
       <div className={styles.About}>
         <MoreBio />

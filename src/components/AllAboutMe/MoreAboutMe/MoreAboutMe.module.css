@@ -14,7 +14,7 @@
   float: left;
   width: 50%;
   height: 550px;
-  overflow: auto;
+  overflow: hidden;
 }
 
 .Image .Husband {
@@ -37,7 +37,7 @@
 
 .Image img {
   vertical-align: middle;
-  transform: rotate(90deg);
+  transform: rotate(0.2turn);
   border-radius: 50px;
   max-width: 100%;
   width: 50%;
@@ -73,7 +73,7 @@
 
   @media (max-width: 600px) {
     .Image img {
-      width: 60%;
+      width: 50%;
     }
 
     .Image .Husband {
@@ -85,6 +85,10 @@
   @media (max-width: 400px) {
     .Image {
       height: 300px;
+    }
+
+    .Image img {
+      transform: rotate(0.3turn);
     }
   }
 }

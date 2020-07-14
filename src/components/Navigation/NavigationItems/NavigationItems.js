@@ -11,7 +11,7 @@ const navigationItems = props => {
         smooth
         activeClassName={styles.NavigationItem}
         key={item}
-        to={{ pathname: "/cv/", hash: "#" + item }}
+        to={{ pathname: "/nesrine/", hash: "#" + item }}
         onClick={props.clicked}
       >
         <NavigationItem>{item}</NavigationItem>
